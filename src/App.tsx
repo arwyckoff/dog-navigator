@@ -4,11 +4,9 @@ import DogNavigator from './components/DogNavigator';
 
 function App () {
   
-    return (
-      <div>
-       <DogNavigator></DogNavigator>
-      </div>
-    );
-  };
+  return (
+    <DogNavigator></DogNavigator>
+  );
+};
 
 export default App;

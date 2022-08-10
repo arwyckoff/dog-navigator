@@ -1,0 +1,21 @@
+.dog-in-spotlight {
+  display: flex;
+  justify-content: center;
+  margin: 4rem;
+  img {
+    max-width: 500px;
+    max-height: 400px;
+    width: auto;
+    height: auto;
+    display: block;
+  }
+}
+
+.dog-breed-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  button {
+    margin: 0.25rem;
+  }
+}
